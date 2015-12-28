@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Hi there.
+This blog is a place for me to document, list reminders, and rant about my current life as a grad student in Japan. My initial commitment to start this blog is to document the painfully obscure and frustrating process of getting a scholarship to study here, but I won't limit myself to the purely academic.  
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hopefully some of my ruminations may be insightful and perchance even helpful to others.
 
-There are currently two themes built on Poole:
+Feel free to get in touch with me, in case you want to ask questions, make comments or even visit my [lab](http://www.cmplx.riec.tohoku.ac.jp/) here in Sendai (or whatever else). You can find me most easily at heim.steve\_at-symbol\_gmail com.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### About this site.
+This blog is powered by [Jekyll](http://jekyllrb.com/) and theme is the [Lanyon theme](http://lanyon.getpoole.com/) by [@mdo](https://twitter.com/mdo).
