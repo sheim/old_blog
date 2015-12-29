@@ -8,9 +8,9 @@ relative_permalinks: true
 title:               Steve Heim
 tagline:             ' '
 description:         'Musings of my life as a grad student in Japan' # <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
-# url:                 http://lanyon.getpoole.com
+# url:                 sheim.github.io
 baseurl:             ''
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
