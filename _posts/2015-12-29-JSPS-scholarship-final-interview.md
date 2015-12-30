@@ -4,11 +4,12 @@ title: JSPS Scholarship, final interview
 tags: Japan academia
 ---
 
-In [a previous post]({% post_url 2015-12-27-JSPS-scholarship-paper-application %}) I documented the length paper application for the [JSPS scholarship](http://www.jsps.go.jp/english/e-pd/index.html). A number of applicants are accepted outright after this step, however a number are required to give a final interview in the form of a 4-minute powerpoint presentation. I was in this set, and here is my advice on this final part.
+In [a previous post]({% post_url 2015-12-27-JSPS-scholarship-paper-application %}) I documented the paper application for the [JSPS scholarship](http://www.jsps.go.jp/english/e-pd/index.html). A number of applicants are accepted outright after this step, however a number are required to give a final interview in the form of a 4-minute powerpoint presentation. I was in this second set, and here is my advice for this final part.
 
 ----
 
 ##TL;DR
+* **Read the JSPS ['About us'](http://www.jsps.go.jp/english/aboutus/index.html) page.** This will give you a good idea of what they are looking for.
 
 * **Impact and Originality** are two key messages that should be emphasized.  
 
@@ -22,7 +23,7 @@ In [a previous post]({% post_url 2015-12-27-JSPS-scholarship-paper-application %
 
 ## The story
 
-The TL;DR pretty much covers it and most of the reasoning is explained in [this post]({% post_url 2015-12-27-JSPS-scholarship-paper-application %}), so I won't go into too many details. Of course being able to give a solid and compelling presentation is key, but that isn't specific to the JSPS interview. So I will focus here on the Q&A section. Most of these questions are rather standard, so you should prepare and practice them. With some practice, you can often answer questions in a way that emphasizes things that you think make you a strong candidate but aren't directly asked for (i.e. I wanted to point out that I had a very international outlook and had been to labs in different schools already, which I think is one of the things that sets me apart from the average Japanese student).
+The TL;DR pretty much covers it and most of the reasoning is explained in [this post]({% post_url 2015-12-27-JSPS-scholarship-paper-application %}), so I won't go into too many details. Of course being able to give a solid and compelling presentation is key, but that isn't specific to the JSPS interview. So I will focus here on the Q&A section. Most of these questions are rather standard, so you should prepare and practice them. With some practice, you can often answer questions in a way that emphasizes things that you think make you a strong candidate but aren't directly asked for (i.e. I wanted to point out that I have had a lot of international experience, which I think is one of the things that sets me apart from the average Japanese student).
 
 ## Q&A
 
@@ -33,11 +34,11 @@ This is a very standard question, and a perfect excuse to talk about something m
 Actually, this was phrased as "Well, actually you already mentioned this in the previous question, but ...". Having known that this was important to them, I managed to preemptively cover a good part of this question already! This meant that now I could go a little deeper into the details (I had some back-up slides to help illustrate) without losing the audience (with only 6 minutes Q&A, I didn't want to spend too much time on a single question. Being able to answer concisely is important). They seemed quite impressed and very satisfied.
 
 **Q3: What do you expect to be most challenging?**
-This is actually a very standard question that I hadn't thought of and prepared for. Fortunately, I had been working on my topic for a while already and was able to give a good answer, but you should definitely prepare for this one.
+This is actually a very standard question that I hadn't thought of and prepared for. Fortunately, I had been working on my topic for a while already and was able to give a good answer, but you should definitely be ready for this one.
 
 **Q4: What are you plans after you PhD?**
 "Do you already have plans to stay with your current lab?". Reading between the lines... will you stay in Japan? This is a question I was expecting and I was worried might count negatively, since I doubt I will stay in Japan. At the same time, I wanted to be completely honest. I answered that I plan to stay in academia, which means I will have to be flexible and go somewhere that has an interesting project and also funding, so I don't know what I will do next. I then added (which perhaps wasn't necessary) that this meant probably I would leave Japan, also because I think it is important to move around in order to continue learning.  
-Since JSPS is of course interested in fostering the Japanese scientific community, this was a risky statement... but I got the scholarship, so I think they appreciate the honesty and also know that even if you leave the country, it is still likely that you will indirectly help by being a good contact outside of Japan. Regardless, my advice is in anycase to be honest and keep your integrity.
+Since JSPS is of course interested in fostering the Japanese scientific community, this was a risky statement... but I got the scholarship, so I think they appreciate the honesty and also know that even if you leave the country, it is still likely that you will indirectly help by being a good contact outside of Japan. Regardless, my advice is in any case to be honest and keep your integrity.
 
 **Q5: Energy is a big challenge for field robotics, how does your topic relate to this?**  
 This was the last question! A somewhat technical question, but not in the specific details. Also relatively easy to answer, since my research is quite closely related to this problem (or rather, this problem is very related to my research :P).  
