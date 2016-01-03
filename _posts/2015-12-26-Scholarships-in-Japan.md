@@ -7,7 +7,7 @@ tags: Japan academia
 Yesterday, perfectly timed on Christmas day, I received an e-mail confirmation that I had received the JSPS DC1 scholarship (for pursuing my PhD in Japan, [this lab](http://www.cmplx.riec.tohoku.ac.jp/)). **やった！** I had gone through a lengthy and painstaking application process, finishing the paper application last April, then going through a second 'Interview' screening, and finally 7 months later getting a confirmation that I wouldn't need to worry about doing this again.  
 Finding a scholarship turned out to be very difficult, with information in English generally scarce and outdated, so after the frustrating ordeal of the paper application was over, I vowed that if I got it I would document the process, my opinions and suggestions, in the hope that it might help others who find themselves in a similar situation. This is that story.  
 
-I will split this into 3 parts: **Scholarships in Japan: general suggestions** (this post), **[JSPS Scholarship: paper application]({% post_url 2015-12-27-JSPS-scholarship-paper-application %})** and **JSPS Scholarship: final interview**.
+I will split this into 3 parts: **Scholarships in Japan: general suggestions** (this post), **[JSPS Scholarship: paper application]({% post_url 2015-12-27-JSPS-scholarship-paper-application %})** and **[JSPS Scholarship: final interview](2015-12-29-JSPS-scholarship-final-interview)**.
 
 ## Scholarships in Japan, an Overview
 
