@@ -8,7 +8,8 @@ In [a previous post]({% post_url 2015-12-27-JSPS-scholarship-paper-application %
 
 ----
 
-##TL;DR
+## TL;DR
+
 * **Read the JSPS ['About us'](http://www.jsps.go.jp/english/aboutus/index.html) page.** This will give you a good idea of what they are looking for.
 
 * **Impact and Originality** are two key messages that should be emphasized.  

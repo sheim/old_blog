@@ -2,15 +2,18 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:               Steve Heim
 tagline:             ' '
 description:         'Musings of my life as a grad student in Japan' # <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
-# url:                 sheim.github.io
-baseurl:             ''
+url:                 sheim.github.io
+gems:                [jekyll-paginate]
+# baseurl:             ''
 paginate:            3
+paginate_path:       "page:num"
+
 
 # About/contact
 author:

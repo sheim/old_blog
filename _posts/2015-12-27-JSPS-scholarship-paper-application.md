@@ -8,7 +8,7 @@ I'm a grad student at [this lab](http://www.cmplx.riec.tohoku.ac.jp/) in Japan, 
 
 ----
 
-##TL;DR
+## TL;DR
 
 * **Read the JSPS ['About us'](http://www.jsps.go.jp/english/aboutus/index.html) page.** This will give you a good idea of what they are looking for.
 
