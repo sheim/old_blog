@@ -37,7 +37,7 @@ Actually, this was phrased as "Well, actually you already mentioned this in the 
 **Q3: What do you expect to be most challenging?**
 This is actually a very standard question that I hadn't thought of and prepared for. Fortunately, I had been working on my topic for a while already and was able to give a good answer, but you should definitely be ready for this one.
 
-**Q4: What are you plans after you PhD?**
+**Q4: What are your plans after you PhD?**
 "Do you already have plans to stay with your current lab?". Reading between the lines... will you stay in Japan? This is a question I was expecting and I was worried might count negatively, since I doubt I will stay in Japan. At the same time, I wanted to be completely honest. I answered that I plan to stay in academia, which means I will have to be flexible and go somewhere that has an interesting project and also funding, so I don't know what I will do next. I then added (which perhaps wasn't necessary) that this meant probably I would leave Japan, also because I think it is important to move around in order to continue learning.  
 Since JSPS is of course interested in fostering the Japanese scientific community, this was a risky statement... but I got the fellowship, so I think they appreciate the honesty and also know that even if you leave the country, it is still likely that you will indirectly help by being a good contact outside of Japan. Regardless, my advice is in any case to be honest and keep your integrity.
 
