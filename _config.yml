@@ -7,9 +7,10 @@ permalink:           pretty
 # Setup
 title:               Steve Heim
 tagline:             ' '
-description:         'Musings of my life as a grad student in Japan' # <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
+description:         'Too few samples to infer a description.' # <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
 url:                 sheim.github.io
 gems:                [jekyll-paginate]
+markdown:            redcarpet
 # baseurl:             ''
 paginate:            3
 paginate_path:       "page:num"
@@ -18,7 +19,7 @@ paginate_path:       "page:num"
 # About/contact
 author:
   name:              Steve Heim
-  url:               http://www.cmplx.riec.tohoku.ac.jp/
+  url:               https://dlg.is.mpg.de/person/heim #http://www.cmplx.riec.tohoku.ac.jp/
   email:             heim.steve@gmail.com
 
 # Custom vars
