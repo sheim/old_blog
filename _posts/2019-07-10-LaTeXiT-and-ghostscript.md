@@ -5,7 +5,7 @@ tags: homebrew, macOS, latex
 ---
 
 A couple weeks ago, I started my day with a usual `brew upgrade`, then got to work on an upcoming paper deadline... only to find that [LaTeXiT broke](https://www.chachatelier.fr/latexit/), and everything would be half-rendered:
-~[My helpful screenshot](/media/latexit.png)
+![symptom](/media/latexit.png)
 
 It didn't take long to find the culprit: ghostscript was a likely candidate, so I checked what brew had upgraded, and as expected Ghostscript had been upgraded to 9.27. However, it took about an hour to figure out how to actually roll back to 9.26, as a lot of previous methods to do this in homebrew have been deprecated.  
 
