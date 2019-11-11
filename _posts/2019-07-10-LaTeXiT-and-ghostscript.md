@@ -3,6 +3,10 @@ layout: post
 title: LaTeXiT and ghostscript 9.27
 tags: homebrew, macOS, latex
 ---
+**update**
+As of ghostscript version 9.50 (possibly earlier), this is no longer issue, so you can unpin and `brew upgrade` to your heart's content.
+
+----
 
 A couple weeks ago, I started my day with a usual `brew upgrade`, then got to work on an upcoming paper deadline... only to find that [LaTeXiT broke](https://www.chachatelier.fr/latexit/), and everything would be half-rendered:
 ![symptom](/media/latexit.png)
