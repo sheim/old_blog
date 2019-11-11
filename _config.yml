@@ -9,7 +9,7 @@ title:               Steve Heim
 tagline:             ' '
 description:         'Too few samples to infer a description.' # <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
 url:                 sheim.github.io
-gems:                [jekyll-paginate]
+plugins:                [jekyll-paginate]
 markdown:            kramdown
 # baseurl:             ''
 paginate:            3
